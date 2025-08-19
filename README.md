@@ -35,16 +35,16 @@ I specialize in:
 ## 🛠️ Tech Stack  
 
 ### 🤖 AI Agents & Chatbots  
-- Python, LangChain/LangGraph, OpenAI Assistants SDK  
+- Python, LangChain/LangGraph, OpenAI Assistants SDK, N8N, LangFlow
 - RAG Pipelines, Autonomous AI Agents  
-- NLP, Vector Databases (Pinecone, FAISS, Weaviate)  
+- NLP, Vector Databases (Pinecone, Chromadb, Qdrant, Astra db, FAISS, Weaviate)  
 
 ### 🎨 Frontend  
-- Next.js, React, TypeScript, JavaScript  
+- Next.js, React, TypeScript, JavaScript, Angular
 - Tailwind CSS  
 
 ### ⚙️ Backend & Cloud  
-- FastAPI, Supabase, Firebase, AWS Serverless  
+- FastAPI, Django, Supabase
 - Node.js (for API integrations)  
 
 ### 📊 Data Analytics & Visualization  
