@@ -5,28 +5,28 @@
 
 ---
 
-## ⚡ About Me  
+## About Me  
 
 Are you wasting time and resources on **manual processes, outdated systems, or disjointed workflows**?  
 Do you need help transforming your business with **AI-driven solutions**?  
 
-🎉 Congratulations — you’re in the right place!  
+Congratulations — you’re in the right place!  
 
 I’m **Rao Hamza Tariq**, an **AI Agents Developer, Full-Stack Developer, and Data Analyst** dedicated to helping businesses streamline operations, automate workflows, and unlock growth through **AI-powered solutions**.  
 
 I specialize in:  
-- 🤖 Building **AI Agents & Chatbots** that automate workflows and enhance customer experience.  
-- ⚡ Designing **Business Process Automation systems** to save time and cut costs.  
-- 📊 Turning **raw data into actionable insights** using data science and analytics.  
-- 🌍 Delivering **end-to-end full-stack solutions** that are scalable, secure, and future-proof.  
+- Building **AI Agents & Chatbots** that automate workflows and enhance customer experience.  
+- Designing **AI Powered Business Process Automation systems** to save time and cut costs.  
+- Turning **raw data into actionable insights** using data science and analytics.  
+- Delivering **end-to-end full-stack solutions** that are scalable, secure, and future-proof.  
 
 ---
 
 ## 🚀 Why Work With Me?  
 
-✅ **AI/ML Expertise** – Autonomous Agents, LLM workflows, RAG pipelines, NLP & Vector Databases.  
+✅ **AI/ML Expertise** – Autonomous AI Agents, AI workflows, RAG pipelines, NLP & Vector Databases.  
 ✅ **Full-Stack Proficiency** – From sleek frontends to robust backends & cloud deployments.  
-✅ **Innovation Focused** – Always experimenting with **LangChain, OpenAI SDK, LangGraph, RAG**.  
+✅ **Innovation Focused** – Always experimenting with **n8n, LangChain, OpenAI SDK, LangGraph, RAG**.  
 ✅ **Data-Driven Decisions** – Power BI, SQL, Python, Pandas, and predictive modeling.  
 ✅ **Scalable Solutions** – Architecting systems that grow with your business.  
 
@@ -34,63 +34,63 @@ I specialize in:
 
 ## 🛠️ Tech Stack  
 
-### 🤖 AI Agents & Chatbots  
-- Python, LangChain/LangGraph, OpenAI Assistants SDK, N8N, LangFlow
+### AI Agents & Chatbots  
+- Python, LangChain/LangGraph, OpenAI Agents SDK, N8N, LangFlow
 - RAG Pipelines, Autonomous AI Agents  
 - NLP, Vector Databases (Pinecone, Chromadb, Qdrant, Astra db, FAISS, Weaviate)  
 
-### 🎨 Frontend  
+### Frontend  
 - Next.js, React, TypeScript, JavaScript, Angular
-- Tailwind CSS  
+- Tailwind CSS, Shadcn UI, Material UI, Ant design etc.
 
-### ⚙️ Backend & Cloud  
+### Backend & Cloud  
 - FastAPI, Django, Supabase
-- Node.js (for API integrations)  
+- Node.js (for API integrations) or NextJS API routes
 
-### 📊 Data Analytics & Visualization  
+### Data Analytics & Visualization  
 - Python (Pandas, NumPy, Seaborn, Scikit-learn)  
 - SQL, Power BI  
 
-### 🗂️ CMS & Databases  
+### CMS & Databases  
 - Sanity, Contentful, WordPress/WooCommerce  
 - PostgreSQL (Supabase), MySQL, MongoDB  
 
-### 🚀 Deployment  
+### Deployment  
 - Vercel, Netlify, AWS, HuggingFace Spaces  
 
 ---
 
-## 🎯 Services I Offer  
+## Services I Offer  
 
-🔹 **AI Agents Development** – Build autonomous AI agents for customer service, sales, and operations.  
-🔹 **AI Chatbots** – Custom chatbot development for websites, apps, and social platforms.  
-🔹 **Business Automation** – Automating repetitive tasks, workflows, and decision-making processes.  
-🔹 **Full-Stack Web Development** – Scalable, data-driven web applications.  
-🔹 **Data Analytics & BI** – Transforming data into clear, actionable insights.  
+1. **AI Agents Development and Workflows** – Build autonomous AI agents for customer service, sales, and operations.  
+2. **AI Chatbots** – Custom chatbot development for websites, apps, and social platforms.  
+3. **Business Automation** – Automating repetitive tasks, workflows, and decision-making processes.  
+4. **Full-Stack Web Development** – Scalable, data-driven web applications.  
+5. **Data Analytics & BI** – Transforming data into clear, actionable insights.  
 
-💡 Don’t worry if terms like *LLM workflows* or *RAG pipelines* sound complex — I offer **FREE consultation** to help you:  
+Don’t worry if terms like *LLM workflows* or *RAG pipelines* sound complex — I offer **FREE consultation** to help you:  
 ✔ Identify automation opportunities in your workflow  
 ✔ Choose the right tech stack for your business goals  
 ✔ Build scalable, future-proof AI-powered solutions  
 
 ---
 
-## 📈 My Mission  
+## My Mission  
 
 To **empower businesses in the modern era with AI-driven automation**, turning complexity into simplicity — one workflow at a time.  
 
 ---
 
-## 📬 Let’s Connect  
+## Let’s Connect  
 
-- 📧 Email: **bistructure9211@gmail.com**  
-- 🌐 Portfolio: [https://rao-hamza-tariq.vercel.app/](https://rao-hamza-tariq.vercel.app/)  
-- 💼 Upwork: [Hire me on Upwork](https://www.upwork.com/freelancers/~01c73bcca9bafbd6b9?mp_source=share)  
-- 📝 Blog: [https://bi-structure-blog.vercel.app/](https://bi-structure-blog.vercel.app/)  
+- Email: **bistructure9211@gmail.com**  
+- Portfolio: [https://rao-hamza-tariq.vercel.app/](https://rao-hamza-tariq.vercel.app/)  
+- Upwork: [Hire me on Upwork](https://www.upwork.com/freelancers/~01c73bcca9bafbd6b9?mp_source=share)  
+- Blog: [https://bi-structure-blog.vercel.app/](https://bi-structure-blog.vercel.app/)  
 
 ---
 
-<h3 align="left">🌍 Social Links</h3>
+<h3 align="left">Social Links</h3>
 <p align="left">
 <a href="https://twitter.com/rao_hamza_tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rao_hamza_tariq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rao-hamza-tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rao-hamza-tariq" height="30" width="40" /></a>
@@ -101,7 +101,7 @@ To **empower businesses in the modern era with AI-driven automation**, turning c
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
