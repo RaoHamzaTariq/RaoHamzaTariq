@@ -22,7 +22,7 @@ I specialize in:
 
 ---
 
-## 🚀 Why Work With Me?  
+## Why Work With Me?  
 
 ✅ **AI/ML Expertise** – Autonomous AI Agents, AI workflows, RAG pipelines, NLP & Vector Databases.  
 ✅ **Full-Stack Proficiency** – From sleek frontends to robust backends & cloud deployments.  
@@ -32,7 +32,7 @@ I specialize in:
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ### AI Agents & Chatbots  
 - Python, LangChain/LangGraph, OpenAI Agents SDK, N8N, LangFlow
