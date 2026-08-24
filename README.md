@@ -84,9 +84,8 @@ To **empower businesses in the modern era with AI-driven automation**, turning c
 ## Let’s Connect  
 
 - Email: **bistructure9211@gmail.com**  
-- Portfolio: [https://rao-hamza-tariq.vercel.app/](https://rao-hamza-tariq.vercel.app/)  
-- Upwork: [Hire me on Upwork](https://www.upwork.com/freelancers/~01c73bcca9bafbd6b9?mp_source=share)  
-- Blog: [https://bi-structure-blog.vercel.app/](https://bi-structure-blog.vercel.app/)  
+- Portfolio: [https://raohamzatariq.vercel.app/](https://raohamzatariq.vercel.app/)  
+- Upwork: [Hire me on Upwork](https://www.upwork.com/freelancers/~01c73bcca9bafbd6b9?mp_source=share)
 
 ---
 
